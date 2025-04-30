@@ -1,1 +1,0 @@
-# Paxos-Key-Value-Store
